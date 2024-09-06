@@ -6,3 +6,6 @@
 ```javascript
 let var= 3*5;
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
